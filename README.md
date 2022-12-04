@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola soy Tomas Gongora 👋
 
-<!--
-**Tomasgongora/Tomasgongora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estoy trabajando en Maipu Automotores como asesor de ventas.
 
-Here are some ideas to get you started:
+- 🌱 Actualmente estoy estudiando ingeniería en sistemas en la universidad nacional Tucumán U.T.N. Adicionalmente estoy haciendo cursos de desarrollo de software en Digital House de Full stack developer con nodejs, y Oracle one alura latam de full stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Busco oportunidades de trabajo o bien hacer prácticas en el área, donde pueda desarrollar mis conocimientos técnicos y crecer junto a la empresa.
+
+- 📫 Cómo contactarme: tomasgongora@hotmail.com
+- 😄 Pronombres: Tomy
+
+- ⚡ Soy una persona curiosa y persistente, me gusta aprender y adquirir conocimiento ya que esto hace parte de mí día a día.
+ Me encanta trabajar en equipo brindado mi asistencia a mis colegas para agilizar los proyectos. 
+ 
+ 
