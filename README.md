@@ -7,6 +7,7 @@
 - 👯 Busco oportunidades de trabajo o bien hacer prácticas en el área, donde pueda desarrollar mis conocimientos técnicos y crecer junto a la empresa.
 
 - 📫 Cómo contactarme: tomasgongora@hotmail.com
+- www.linkedin.com/in/tomas-gongora
 - 😄 Pronombres: Tomy
 
 - ⚡ Soy una persona curiosa y persistente, me gusta aprender y adquirir conocimiento ya que esto hace parte de mí día a día.
