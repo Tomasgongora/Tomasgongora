@@ -8,7 +8,7 @@
 
 - 📫 Cómo contactarme: tomasgongora@hotmail.com
 - www.linkedin.com/in/tomas-gongora
-- 😄 Pronombres: Tomy
+- 😄  Tomy
 
 - ⚡ Soy una persona curiosa y persistente, me gusta aprender y adquirir conocimiento ya que esto hace parte de mí día a día.
  Me encanta trabajar en equipo brindado mi asistencia a mis colegas para agilizar los proyectos. 
