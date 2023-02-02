@@ -2,7 +2,7 @@
 
 - 🔭 Actualmente estoy trabajando en Maipu Automotores como asesor de ventas.
 
-- 🌱 Actualmente estoy estudiando ingeniería en sistemas en la universidad nacional Tucumán U.T.N. Adicionalmente estoy haciendo cursos de desarrollo de software en Digital House de Full stack developer con nodejs, y Oracle one alura latam de full stack.
+- 🌱 Actualmente estoy estudiando ingeniería en sistemas en la universidad nacional Tucumán U.T.N. Adicionalmente estoy haciendo cursos de desarrollo de software en Digital House de Full stack developer con nodejs, y Oracle one alura latam de full stack developer.
 
 - 👯 Busco oportunidades de trabajo o bien hacer prácticas en el área, donde pueda desarrollar mis conocimientos técnicos y crecer junto a la empresa.
 
